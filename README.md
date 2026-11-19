@@ -1,7 +1,35 @@
-## Hi there 👋
+## Biography 👋
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### About Me :
+
+I am involving myself continuously in Anticipatory Design (AD) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- :telescope: Born: November 1946
+
+- :seedling: Qualifications: MA (Open), Dipl Arch (Leeds)
+  
+- :zap: 1972: Founded Practice
+
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-archiblog-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/archiblog/)
+
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/archiblog/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.youtube.com/@Archiblog">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  
+</div>
+
 
 <!--
-**normanfellows/normanfellows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Archiblog/Archiblog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
