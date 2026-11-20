@@ -1,6 +1,6 @@
 ## Biography 👋
 <div align="center">
-  <img src="![Norman Fellows — Research Table](normanfellows-research-table-600x300.jpg)" width="600" height="300"/>
+  <img src="normanfellows-research-table-600x300.jpg" width="600" height="300" alt="Norman Fellows — Research Table"/>
 </div>
 
 ---
