@@ -1,13 +1,13 @@
-## Biography 👋
+## Research 👋
 <div align="center">
   <img src="normanfellows-research-colophon-600x300.png" width="600" height="300" alt="Norman Fellows — Colophon"/>
 </div>
 
 ---
 
-### About Me :
+### About Norman Fellows :
 
-I am involving myself continuously in Anticipatory Design (AD) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+An independent researcher continuing an investigation into Anticipatory Design (AD) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: Born: November 1946
 
 - :seedling: Qualifications: MA (Open), Dipl Arch (Leeds)
