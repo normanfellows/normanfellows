@@ -7,7 +7,7 @@
 
 ### About Norman Fellows :
 
-An independent researcher continuing an investigation into Anticipatory Design (AD) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Continuously involved in Anticipatory Design (AD) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: Born: November 1946
 
 - :seedling: Qualifications: MA (Open), Dipl Arch (Leeds)
