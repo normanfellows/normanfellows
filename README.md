@@ -8,13 +8,13 @@
 ### About Norman Fellows :
 
 Continuously involved in Anticipatory Design (AD) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: Born: November 1946
-
-- :seedling: Qualifications: MA (Open), Dipl Arch (Leeds)
+- :telescope: Architectural qualifications: MA (Open), Dip Arch (Leeds)
   
-- :zap: 1972: Founded Practice
+- :seedling: Architectural practice founded: 1972
+  
+- :zap: Independent research: initiated 1967
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-archiblog-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/archiblog/)
+- :mailbox: Further information: Archiblog
 
 
 <div id="badges">
