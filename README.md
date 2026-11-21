@@ -10,7 +10,7 @@
 Continuously involved in Anticipatory Design (AD) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - Architectural qualifications: MA (Open), Dip Arch (Leeds) :telescope: 
   
-- Architectural practice founded: 1972:seedling: 
+- Architectural practice founded: 1972 :seedling: 
   
 - Independent research: initiated 1967 :zap: 
 
