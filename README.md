@@ -8,7 +8,7 @@
 ### About Norman Fellows :
 
 Continuously involved in Anticipatory Design (AD) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: Architectural qualifications: MA (Open), Dip Arch (Leeds)
+- Architectural qualifications: MA (Open), Dip Arch (Leeds) :telescope: 
   
 - :seedling: Architectural practice founded: 1972
   
