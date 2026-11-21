@@ -19,7 +19,7 @@ Continuously involved in Anticipatory Design (AD) <img src="https://media.giphy.
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/archiblog/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>&nbsp;
   </a>
   <a href="https://www.youtube.com/@Archiblog">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
