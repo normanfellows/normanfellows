@@ -20,12 +20,8 @@ Continuously involved in Anticipatory Design (AD) <img src="https://media.giphy.
 <div id="badges">
    <a href="https://www.linkedin.com/in/archiblog/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>    
-  </a>
- 
-  
+  </a>  
 </div>
-
-[![Designing Buildings](https://img.shields.io/badge/DESIGNING_BUILDINGS-315B83?style=for-the-badge)](https://www.designingbuildings.co.uk/wiki/Archiblog%27s_Ordering#Archiblog.27s_articles_on_Designing_Buildings)
 
 <!--
 **Archiblog/Archiblog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
