@@ -12,7 +12,7 @@ Continuously involved in Anticipatory Design (AD) <img src="https://media.giphy.
   
 - Architectural practice founded: 1972 :seedling: 
   
-- Independent research: initiated 1967 :zap: 
+- <a href="https://normanfellows.github.io/">Independent research</a>: initiated 1967 :zap: 
 
 - Further information: Archiblog :mailbox: 
 
