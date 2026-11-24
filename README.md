@@ -16,7 +16,8 @@ Continuously involved in Anticipatory Design (AD) <img src="https://media.giphy.
 
 - Further information: Archiblog :mailbox:
 
-[![DESIGNING BUILDINGS](https://img.shields.io/badge/DESIGNING_BUILDINGS-315B83?style=for-the-badge)](https://www.designingbuildings.co.uk/wiki/User:Norman_Fellows)[![ZOTERO](https://img.shields.io/badge/ZOTERO-315B83?style=for-the-badge)](https://www.zotero.org/archiblog)
+[![DESIGNING BUILDINGS](https://img.shields.io/badge/DESIGNING_BUILDINGS-315B83?style=for-the-badge)](https://www.designingbuildings.co.uk/wiki/User:Norman_Fellows)&nbsp;&nbsp;[![ZOTERO](https://img.shields.io/badge/ZOTERO-315B83?style=for-the-badge)](https://www.zotero.org/archiblog)
+
 
 
 
