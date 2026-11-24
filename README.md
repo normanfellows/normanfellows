@@ -16,7 +16,9 @@ Continuously involved in Anticipatory Design (AD) <img src="https://media.giphy.
 
 - Further information: Archiblog :mailbox:
 
-[![Designing Buildings](https://img.shields.io/badge/DESIGNING_BUILDINGS-315B83?style=for-the-badge)](https://www.designingbuildings.co.uk/wiki/Archiblog%27s_Ordering#Archiblog.27s_articles_on_Designing_Buildings)
+[![DESIGNING BUILDINGS](https://img.shields.io/badge/DESIGNING_BUILDINGS-315B83?style=for-the-badge)](https://www.designingbuildings.co.uk/wiki/User:Norman_Fellows)[![ZOTERO](https://img.shields.io/badge/ZOTERO-315B83?style=for-the-badge)](https://www.zotero.org/archiblog)
+
+
 
 <!--
 **Archiblog/Archiblog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
