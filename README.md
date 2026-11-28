@@ -7,12 +7,12 @@
 
 ### About Norman Fellows :
 
-Continuously involved in Anticipatory Design (AD) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+Asking: What should architects do? <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - Academic qualifications: MA (Open), Dip Arch (Leeds) :telescope: 
   
 - Architectural practice founded: 1972 :seedling: 
   
-- <a href="https://normanfellows.github.io/">Independent research</a>: initiated 1967 :zap: 
+- Independent research: initiated 1967 :zap: 
 
 - Further information: Archiblog :mailbox:
 
